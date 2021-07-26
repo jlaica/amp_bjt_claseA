@@ -9,3 +9,5 @@ El video de este y otros ejemplos demostrativos, para llevar acabo la simulació
 ![alt text](https://github.com/jlaica/amp_bjt_claseA/blob/main/circuit_2n3904.png)
 
 La gráfica obtenida luego de la simulación.
+
+![alt text](https://github.com/jlaica/amp_bjt_claseA/blob/main/grafica_bjt.png)
